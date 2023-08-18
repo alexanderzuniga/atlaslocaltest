@@ -1,0 +1,5 @@
+[Thu Aug 17 13:42:24.765682 2023] [mpm_event:notice] [pid 8992:tid 8605160064] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Aug 17 13:42:24.766056 2023] [core:notice] [pid 8992:tid 8605160064] AH00094: Command line: '/Users/alex.zuniga/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/alex.zuniga/Library/Application Support/Local/run/FxDhcbD9S/conf/apache/apache2.conf'
+[Thu Aug 17 13:42:41.162449 2023] [mpm_event:notice] [pid 8992:tid 8605160064] AH00491: caught SIGTERM, shutting down
+[Thu Aug 17 13:42:42.494271 2023] [mpm_event:notice] [pid 9240:tid 8598516352] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Aug 17 13:42:42.494606 2023] [core:notice] [pid 9240:tid 8598516352] AH00094: Command line: '/Users/alex.zuniga/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/alex.zuniga/Library/Application Support/Local/run/FxDhcbD9S/conf/apache/apache2.conf'
